@@ -27,5 +27,5 @@ Your solution must be tested, preferably via TDD.
 5. Improve your solution based on the comments you've received and approaches you've learned from reviewing others' attempts.
 
 ## Setting up PHPUnit
-1. run ./composer.phar update
-2. source evn.sh
+1. `./composer.phar update`
+2. `source evn.sh`
