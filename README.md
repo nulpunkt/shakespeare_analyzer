@@ -25,3 +25,7 @@ Your solution must be tested, preferably via TDD.
 3. Create a pull request so your code can be reviewed.
 4. Perform a code review on at least one other person's solution. Your comments should follow our code review guidelines: https://github.com/thoughtbot/guides/tree/master/code-review. Most important: be friendly. Make suggestions, not demands. 
 5. Improve your solution based on the comments you've received and approaches you've learned from reviewing others' attempts.
+
+## Setting up PHPUnit
+1. run ./composer.phar update
+2. source evn.sh
