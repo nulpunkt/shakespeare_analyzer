@@ -1,0 +1,11 @@
+{
+	"require-dev": {
+		"phpunit/phpunit": "3.7.*",
+		"nulpunkt/php-stub": "dev-master"
+	},
+	"autoload": {
+		"psr-0": {
+            "": "lib/"
+        }
+	}
+}
